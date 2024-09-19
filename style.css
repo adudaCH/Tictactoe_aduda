@@ -1,0 +1,26 @@
+body {
+background-image: url(http://luxfon.com/pic/201203/1920x1080/luxfon.com-1242.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: #A0E7E5;
+}
+
+.game_body {
+    border: 1px solid black;
+    box-shadow: 0 5 0 1px black;
+    background-color: #189AB4;
+    padding: 15px;
+    margin-top: 200px;
+    max-width: 465px;
+}
+
+.socket{
+background-color: white;
+border: 1px solid black;
+height: 80px;
+vertical-align: middle;
+font-size: 25px;
+padding-top: 20px;
+}
